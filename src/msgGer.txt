@@ -1,0 +1,4 @@
+404,Nicht gefunden
+703,Service nicht gefunden
+805,Sprache nicht gefunden
+813,Wort nicht gefunden

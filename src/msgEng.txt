@@ -1,0 +1,4 @@
+404,Not found
+703,Service not found
+805,Language not found
+813,Word not found

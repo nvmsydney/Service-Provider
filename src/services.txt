@@ -1,0 +1,3 @@
+0,DigitConverter
+1,SkillsSearcher
+2,Translator

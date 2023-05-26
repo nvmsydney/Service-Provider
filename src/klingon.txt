@@ -1,0 +1,16 @@
+Hello,nuqneH
+Goodbye,qapla'
+Thank you,Quch
+Yes,HIja'
+No,Ghobe'
+Friend,chaver
+Enemy,HemQuch
+Love,bang
+Food,QIt
+Water,nuHmey
+Hi,tar lIch
+What is your name?,nuq 'oH ponglIj'e'?
+I am a Computer Science major,SuvwI' jIH
+How was your day?,jajlIj yIDel?
+I love you,qaparHa'qu'
+I'm hungry,jIghung

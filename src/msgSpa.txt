@@ -1,0 +1,4 @@
+404,No encontrado
+703,Servicio no encontrado
+805,Idioma no encontrado
+803,Palabra no encontrada

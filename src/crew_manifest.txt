@@ -1,0 +1,24 @@
+Walsh,Bryce,Leadership
+Eastwood,Clint,Science
+Gardner,Sarah,Maintenance
+Dahlberg,Robert,Pilot
+Fights,Karen,Linguistics
+Anderson,Thomas,Martial Arts
+Mortiz,Ashley,Engineering
+Reagan,Nancy,Medicine
+Mikolaj,Morales,Programming
+Mendez,Kaya,Combat
+Barnes,Rosalind,Interrogation
+Marks,Kelly,Psychology
+Paul,Danny,Mechanic
+Hendricks,Neo,Business
+Nunez,Bilal,Acrobatics
+Franco,Zohaib,Artist
+Lam,Mitchell,Writing
+Freeman,Franklin,Cleaning
+Myers,Safa,Command
+Mendoza,Diane,Strength
+Rodriguez,Oscar,Astrography
+Grimes,Rick,Leadership
+Baskins,Carol,Gunnery
+Nye,Bill,Security
